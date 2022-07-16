@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+    <string name="first_dialog">First Dialog Fragment</string>
+    <string name="second_dialog">Second Dialog Fragment</string>
+    <string name="third_dialog">Third Dialog Fragment</string>
+    <string name="full_custom">Full custom</string>
+</resources>
